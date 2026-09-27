@@ -4,7 +4,7 @@ import { btnAccent, btnGhost, Section, SectionHeading } from "@/components/ui";
 import { email, resumeUrl, socials } from "@/data/portfolio";
 
 const socialLinks = [
-  { href: socials.github, label: "GitHub", handle: "github.com/0xMudit", Icon: GithubIcon },
+  { href: socials.github, label: "GitHub", handle: "github.com/BerlinDeskMudit", Icon: GithubIcon },
   { href: socials.linkedin, label: "LinkedIn", handle: "linkedin.com/in/0xmudit", Icon: LinkedInIcon },
   { href: socials.huggingface, label: "HuggingFace", handle: "huggingface.co/0xMudit", Icon: HuggingFaceIcon },
 ];

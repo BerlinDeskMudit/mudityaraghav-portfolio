@@ -26,8 +26,8 @@ export const projects: Project[] = [
     tech: ["Go", "ISO 8583", "ISO 20022", "PostgreSQL", "Redis", "Docker", "HSM", "EMV"],
     metrics: ["Full switch + ledger", "Issuing + acquiring stacks", "HSM key management", "24/7 instant settlement"],
     image: "/assets/clara.png",
-    live: "https://github.com/0xMudit/clara-payment-network",
-    repo: "https://github.com/0xMudit/clara-payment-network",
+    live: "https://github.com/BerlinDeskMudit/clara-payment-network",
+    repo: "https://github.com/BerlinDeskMudit/clara-payment-network",
   },
   {
     title: "Malcom",
@@ -37,7 +37,7 @@ export const projects: Project[] = [
     metrics: ["Stripe-billed SaaS", "Streamed LLM responses", "Cited web research"],
     image: "/assets/malcom.png",
     live: "https://malcom-lake.vercel.app",
-    repo: "https://github.com/0xMudit/malcom-ai-research-assistant",
+    repo: "https://github.com/BerlinDeskMudit/malcom-ai-research-assistant",
   },
   {
     title: "Kingswork",
@@ -47,7 +47,7 @@ export const projects: Project[] = [
     metrics: ["Multi-domain backend", "JWT auth + WebSockets", "Backtesting + alerts"],
     image: "/assets/kingswork.png",
     live: "https://kingswork-ruddy.vercel.app",
-    repo: "https://github.com/0xMudit/kingswork-trading-intelligence",
+    repo: "https://github.com/BerlinDeskMudit/kingswork-trading-intelligence",
   },
   {
     title: "Jini",
@@ -57,7 +57,7 @@ export const projects: Project[] = [
     metrics: ["30 unit tests", "Cited answers", "Runs with zero API keys", "Dockerized"],
     image: "/assets/jini.png",
     live: "https://jini-document-intelligence.vercel.app",
-    repo: "https://github.com/0xMudit/jini-document-intelligence",
+    repo: "https://github.com/BerlinDeskMudit/jini-document-intelligence",
   },
   {
     title: "Cattle Re-ID",
@@ -67,7 +67,7 @@ export const projects: Project[] = [
     metrics: ["Zero-shot + supervised", "514 identity classes", "Weights on HuggingFace", "12-point pose"],
     image: "/assets/cattle_reid.png",
     live: "https://huggingface.co/0xmudit/cattle-reid-weights",
-    repo: "https://github.com/0xMudit/cattle-re-identification",
+    repo: "https://github.com/BerlinDeskMudit/cattle-re-identification",
   },
 ];
 
@@ -148,7 +148,7 @@ export const research = [
 export const resumeUrl = "/assets/MudityaRaghav-Software-Engineer-Resume.pdf";
 export const email = "mudityadev@gmail.com";
 export const socials = {
-  github: "https://github.com/0xMudit",
+  github: "https://github.com/BerlinDeskMudit",
   twitter: "https://twitter.com/0xMudit",
   linkedin: "https://www.linkedin.com/in/0xmudit/",
   huggingface: "https://huggingface.co/0xMudit",
